@@ -9,6 +9,7 @@
     Terminal merupakan sebuah aplikasi yang membantu kita terhubung dengan shell, disinilah kita memasukkan kode atau perintah.
 * ### Struktur Sistem
     Struktur di sini mengatur posisi di mana data yang berada di sistem disimpan sesuai dengan lokasinya. Gambaran strukturnya seperti dibawah ini.
+    
     ![unix](https://user-images.githubusercontent.com/114371403/192682902-6c718906-cdc5-4447-a66d-f468f838251c.png)
 
 * ### Commad

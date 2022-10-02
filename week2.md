@@ -4,7 +4,7 @@
 * ### Loop
     Ketika kita ingin menampilkan sebuah data yang banyak, kita bisa menggunakan looping.
 
-    ![loop]([loop.png](https://user-images.githubusercontent.com/114371403/193436185-6833242f-fc17-4d5b-a07d-653a63768f81.png)
+    ![loop](https://user-images.githubusercontent.com/114371403/193436185-6833242f-fc17-4d5b-a07d-653a63768f81.png)
 
     Di atas kita memiliki variable 1 dengan angka 1, kemudian kita akan melakukan perulangan sama dengan kurang dari 5 kali. Selama kondisi tersebut bernilai True, maka data "i" akan terus di tambah hingga bernilai "false".
 

@@ -98,7 +98,6 @@ Dalam membuat database kita membutuhkan sebuah sistem yang dapat meyimpan dan me
         ![w22](https://user-images.githubusercontent.com/114371403/200436817-f8a947ec-53c6-4c85-9bd9-b349847b6fac.png)
 
 * ### JOIN
-    Link = https://ngodingdata.com/cara-menggunakan-join-di-mysql/
     JOIN adalah perintah yang berfungsi untuk menggabungkan kolom dan baris dari 2 tabel. Untuk contoh disini kita memiliki 2 tabel dengan isi datanya seperti ini.
     
     Ini adalah tabel mahasiswa.
